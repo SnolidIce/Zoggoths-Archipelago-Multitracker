@@ -1,0 +1,7 @@
+double jump: progression
+springboards: progression
+starting medal: progression
+ice medal: progression
+dive: progression
+lava medal: filler
+key: progression
