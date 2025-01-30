@@ -1,0 +1,5 @@
+Pocket Sand: trap
+Creeper Trap: trap
+Golden Pick: useful
+Progressive Shovel: progression
+Progressive Haste: progression
